@@ -39,7 +39,7 @@ const Icons = styled(Box)(({ theme }) => ({
 }));
 
 const UserBox = styled(Box)(({ theme }) => ({
-  // Creating a user box for smaller screen devices
+  // Creating a customized userBox div for smaller screen devices
   display: "flex",
   gap: "10px",
   alignItems: "center",
